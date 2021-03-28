@@ -1,3 +1,3 @@
-module example.com/greetings
+module github.com/nombregithub/greetings
 
 go 1.16
